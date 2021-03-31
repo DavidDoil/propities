@@ -1,0 +1,9 @@
+div {
+    margin: 20px 500px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(204, 204, 203);
+}
